@@ -1,0 +1,47 @@
+CMSC 421 Homework 1 Grade
+Total Possible Points: 100
+
+Student : Email : Github Username
+Nick Long	nlong2@umbc.edu	EndofRivers
+
+Simple Shell
+
+------------------------------------------------------------------
+Using Makefile                                                : 3/3
+Code compiles without errors                                  : 6/7
+------------------------------------------------------------------
+Parsing input from user                                        
+    - Can handle fixed input                                  : 6/6
+    - Can handle arbitrary length                             : 10/10
+------------------------------------------------------------------
+Fork
+    - Forks properly                                          : 10/10
+    - Handles errors when forking                             : 4/4
+------------------------------------------------------------------
+Exec
+    - Formats exec arguments correctly                        : 6/6
+    - Calls appropriate exec function                         : 4/4
+    - Handles exec errors                                     : 10/10
+------------------------------------------------------------------
+Memory Management
+    - Frees parent process memory correctly                   : 10/10
+    - Frees child process memory correctly                    : 10/10
+------------------------------------------------------------------
+Miscellaneous                         
+    - File and Stdin modes are both supported                 : 9/10
+    - Escape characters propely handeled                      : 5/7
+	- Proper exit code set                                    : 3/3
+------------------------------------------------------------------
+
+Project Grade                                                 : 100
+Late penalty, if applicable                                   : 
+------------------------------------------------------------------
+Final Homework 1 Grade                                        : 96/100
+
+Comments from the TA:
+types.h not included
+File does not exit on error (or it appears to happen on second error?)
+Escaped spaces do not always work, and appear to be counted as another argument
+Good job!
+
+---------------------

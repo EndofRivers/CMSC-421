@@ -1,0 +1,5 @@
+cat script.txt
+ls
+echo Hello\nWorld
+/bin
+echo "Hello World"
